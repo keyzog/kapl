@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name _borsh)(type KiCad)(uri ${KIPRJMOD}/_borsh.pretty)(options "")(descr ""))
+  (lib (name _Kapl)(type KiCad)(uri ${KIPRJMOD}/Kapl-footprint.pretty)(options "")(descr ""))
+)
