@@ -10,15 +10,16 @@ Board with controller on back side.
 
 ## PCB
 ![](images/pcb.jpg)
-[gerbers/gerbers.zip](https://github.com/keyzog/kapl/dxt/gerbers/gerbers.zip)
+[gerbers/gerbers.zip](https://github.com/keyzog/kapl/raw/main/gerbers/gerbers.zip)
+
 I recommend ordering PCB on [jlcpcb.com](https://jlcpcb.com/).
 
 ## Acrylic Case
 ![](images/case_with_cut.jpg)
-[dxt/case_with_cut/](https://github.com/keyzog/kapl/dxt/case_with_cut/)
+[dxt/case_with_cut/](https://github.com/keyzog/kapl/tree/main/dxf/case_with_cut/)
 
 ![](images/case_base.jpg)
-[dxt/case_base/](https://github.com/keyzog/kapl/dxt/case_base/)
+[dxt/case_base/](https://github.com/keyzog/kapl/tree/main/dxf/case_base/)
 
 ## Firmware
 Kapl uses [QMK firmware](https://qmk.fm/)
