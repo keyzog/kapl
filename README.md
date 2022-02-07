@@ -16,10 +16,10 @@ I recommend ordering PCB on [jlcpcb.com](https://jlcpcb.com/).
 
 ## Acrylic Case
 ![](images/case_with_cut.jpg)
-[dxt/case_with_cut/](https://github.com/keyzog/kapl/tree/main/dxf/case_with_cut/)
+[dxf/case_with_cut/](https://github.com/keyzog/kapl/tree/main/dxf/case_with_cut/)
 
 ![](images/case_base.jpg)
-[dxt/case_base/](https://github.com/keyzog/kapl/tree/main/dxf/case_base/)
+[dxf/case_base/](https://github.com/keyzog/kapl/tree/main/dxf/case_base/)
 
 ## Firmware
 Kapl uses [QMK firmware](https://qmk.fm/)
