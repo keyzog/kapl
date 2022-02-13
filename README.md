@@ -2,7 +2,7 @@
 
 The Kapl is a split ergonomic keyboard with 70 keys (7x5).
 
-![](images/keyboard.jpg)
+![Kapl split keyboard](images/keyboard.jpg)
 
 Board with controller on back side.
 ![](images/3.jpg)
@@ -25,7 +25,7 @@ I recommend ordering PCB on [jlcpcb.com](https://jlcpcb.com/).
 Kapl uses [QMK firmware](https://qmk.fm/)
 
 ## Todo
-- [ ] components list
+- [x] [list of materials](https://github.com/keyzog/kapl/wiki#bill-of-materials)
 - [ ] building guide
 - [ ] tilting-tenting case
 - [ ] rotation encoder support 
