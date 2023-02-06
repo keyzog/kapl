@@ -10,7 +10,7 @@ Board with controller on back side.
 
 ## PCB
 ![](images/pcb.jpg)
-[gerbers/gerbers.zip](https://github.com/keyzog/kapl/raw/main/gerbers/gerbers.zip)
+[gerbers/gerber__main_1.0.zip](https://github.com/keyzog/kapl/raw/main/gerbers/gerber__main_1.0.zip)
 
 I recommend ordering PCB on [jlcpcb.com](https://jlcpcb.com/).
 
