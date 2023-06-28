@@ -12,7 +12,7 @@ Board with controller on back side.
 ## PCB
 
 ![](images/pcb.jpg)
-[gerbers/gerber__main_1.0.zip](https://github.com/keyzog/kapl/raw/main/gerbers/gerber__main_1.0.zip)
+[gerbers/gerber\_\_main.zip](https://github.com/keyzog/kapl/raw/main/gerbers/gerber__main.zip)
 
 I recommend ordering PCB on [jlcpcb.com](https://jlcpcb.com/).
 
@@ -31,6 +31,6 @@ Kapl uses [QMK firmware](https://qmk.fm/)
 ## Todo
 
 -  [x] [list of materials](https://github.com/keyzog/kapl/wiki#bill-of-materials)
+-  [x] rotation encoder support
 -  [ ] building guide
 -  [ ] tilting-tenting case
--  [ ] rotation encoder support
