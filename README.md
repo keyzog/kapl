@@ -3,6 +3,8 @@
 The Kapl is a split ergonomic keyboard with 70 keys (7x5).
 Please read project wiki for details: https://github.com/keyzog/kapl/wiki
 
+**Detailed assembly instructions:** https://keyzog.com/post/kapl-build-guide (RU)
+
 ![Kapl split keyboard](images/keyboard_2.jpg)
 ![Kapl split keyboard](images/keyboard.jpg)
 
